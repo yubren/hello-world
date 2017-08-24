@@ -1,3 +1,3 @@
 # hello-world
 just love github
-This is a try for me with github.
+This is a try to me with github.
